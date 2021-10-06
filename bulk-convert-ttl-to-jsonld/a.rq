@@ -1,0 +1,6 @@
+construct{
+ ?s ?p ?o
+}
+where {
+  ?s ?p ?o
+}
